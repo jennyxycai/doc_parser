@@ -1,2 +1,2 @@
-# resume_parser
-Mock dashboard for indexing resume documents based on keywords and experiences
+# doc parser
+Mock dashboard for indexing documents based on keywords
